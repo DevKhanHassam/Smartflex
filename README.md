@@ -14,33 +14,14 @@
 
 ---
 
-## 📂 Repository Structure  
+## 🛠️ Tech Stack  
 
-Smartflex/
-├── css/
-├── images/
-├── js/
-├── ExpertDrill.html
-├── Practice.html
-├── garland.html
-├── goddess.html
-├── mountain.html
-├── warrior1.html
-├── warrior2.html
-├── triangle.html
-├── connection.php
-├── controllerUserData.php
-├── home.php
-├── index.html
-├── login-user.php
-├── logout-user.php
-├── signup-user.php
-├── dailycall.php
-├── contactform.html
-├── contactform.js
-├── forgot-password.php
-├── new-password.php
-└── model & weight files
+- **Frontend**: HTML, CSS, JavaScript  
+- **Machine Learning**: TensorFlow.js, ml5.js, PoseNet  
+- **Backend**: PHP, SQL Database  
+- **Libraries**: P5.js for creative visualization  
+- **Hosting**: Compatible with AwardSpace or local Apache servers  
+
 
 
 ---
